@@ -494,14 +494,15 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--white);
   overflow: hidden;
   border-radius: 20px;
+  margin: -20px 0;
 }
 
 .survey-embed-container iframe {
   width: 100%;
-  height: 550px;
+  height: 590px;
   border: none;
   display: block;
-  overflow: auto;
+  overflow: hidden;
   border-radius: 20px;
 }
 
