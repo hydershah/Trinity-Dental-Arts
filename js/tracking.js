@@ -6,6 +6,7 @@
 // MegaTag Configuration
 window.MEGA_TAG_CONFIG = {
   siteKey: 'sk_mkh60p43_31e1k5myxx8',
+  siteId: '893c5bc3-1820-4976-acc1-70cb104f6e3a',
   gtmId: 'GTM-KL2XMJK3',
   gaId: null, // Add GA4 ID if available
   pixelId: null, // Add Meta Pixel ID if available
